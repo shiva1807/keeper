@@ -1,2 +1,2 @@
 # keeper
-A very basic clone of "Keep" by google
+A very basic clone of "Keep" by Google.
